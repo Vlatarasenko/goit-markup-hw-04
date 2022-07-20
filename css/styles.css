@@ -132,9 +132,10 @@ a {
 
 .nav-contacts-link {
   display: flex;
+  align-content: center;
+  justify-content: center;
   padding-top: 32px;
   padding-bottom: 32px;
-
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -144,8 +145,6 @@ a {
 }
 
 .nav-contacts-icon {
-  align-content: center;
-  justify-content: center;
   margin-right: 10px;
 }
 
